@@ -12,11 +12,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
----
-## 🌐 Socials:
- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:26.archangel@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vaibhavi-srivastava-99a572348/)   [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/26_archangel)  <!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/26.archangel) -->
- [![](https://visitcount.itsvg.in/api?id=archangel2006&icon=0&color=5)](https://visitcount.itsvg.in)
  
 ---
 # 💻 Tech Stack:
@@ -46,7 +41,11 @@ Tools: ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=
 ![](https://github-contributor-stats.vercel.app/api?username=archangel2006&limit=5&theme=catppuccin_latte&combine_all_yearly_contributions=true)
 
 ---
+## 🌐 Socials:
+ [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:26.archangel@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vaibhavi-srivastava-99a572348/)   [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/26_archangel)  <!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/26.archangel) -->
+ [![](https://visitcount.itsvg.in/api?id=archangel2006&icon=0&color=5)](https://visitcount.itsvg.in)
 
+ ---
 <!-- <div align="center">
   <img src="./github-user-contribution" alt="Snake animation" />
 </div> -->
