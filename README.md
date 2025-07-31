@@ -36,3 +36,7 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=archangel2006&icon=0&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align="center">
+  <img src="./github-user-contribution.svg" alt="Snake animation" />
+</div>
