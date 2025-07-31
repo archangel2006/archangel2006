@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <div align="center">
-  <img src="./github-user-contribution.svg" alt="Snake animation" />
+  <img src="./github-user-contribution" alt="Snake animation" />
 </div>
