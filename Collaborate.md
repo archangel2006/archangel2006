@@ -37,9 +37,9 @@ I’m open to teaming up on meaningful tech projects, especially around:
 
 ## 📬 Let’s Talk
 
-Reach out via  
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
-(https://linkedin.com/in/https://www.linkedin.com/in/vaibhavi-srivastava-99a572348/) · [![Devpost](https://img.shields.io/badge/Devpost-Profile-blue?logo=devpost)](https://devpost.com/yourusername)
+Reach out via:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](your-linkedin)  | [![Devpost](https://img.shields.io/badge/Devpost-Profile-blue?logo=devpost)](https://devpost.com/yourusername) | 
 [![Devfolio](https://img.shields.io/badge/Devfolio-Profile-0A0A0A?logo=devfolio&logoColor=white)](https://devfolio.co/@yourusername)
 
 
