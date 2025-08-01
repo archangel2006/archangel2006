@@ -1,18 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 ---
-<!--
-**archangel2006/archangel2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## You probably don't know me... or you do...
+I don't know — nor do I want to.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- 
+But here’s what you *do* need to know about me:
+
+- 🛠️ I build with clarity, not chaos.  
+- 🔇 I thrive in silence — group chats can wait.
+- 🕒 I don’t do 3AM debugging. (I’ve got the whole day for that)
+- ☕ I don’t run on caffeine. Just pure determination.
+- 🎯 Deadlines? Already done. (While you were tweeting about hustle).
+
 ---
 # 💻 Tech Stack:
 
@@ -41,11 +39,14 @@ Tools: ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=
 ![](https://github-contributor-stats.vercel.app/api?username=archangel2006&limit=5&theme=catppuccin_latte&combine_all_yearly_contributions=true)
 
 ---
-## 🌐 Socials:
- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:26.archangel@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vaibhavi-srivastava-99a572348/)   [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/26_archangel)  <!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/26.archangel) -->
- [![](https://visitcount.itsvg.in/api?id=archangel2006&icon=0&color=5)](https://visitcount.itsvg.in)
+## 🌐 Contact Me:
+ [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:26.archangel@gmail.com) 
+ [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/26_archangel)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/26.archangel)
+ [![Visit](https://visitcount.itsvg.in/api?id=archangel2006&icon=0&color=5)](https://visitcount.itsvg.in)
 
- ---
-<!-- <div align="center">
-  <img src="./github-user-contribution" alt="Snake animation" />
-</div> -->
+---
+## 🤝 Collaborate?
+
+[Collaborate With Me](Collaborate.md)
+
+ 
