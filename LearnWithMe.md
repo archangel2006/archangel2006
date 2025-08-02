@@ -9,7 +9,7 @@ If you're someone who learns best with others, let’s connect and grow together
 
 ## 🔍 Areas I'm Learning
 
-- 🧠 **DSA (Data Structures & Algorithms)** — Python first, then C++  
+- 🧠 **DSA (Data Structures & Algorithms)** — Python 
 - 💻 **Web Development** — Frontend + Full-stack  
 - 🎮 **Game Development** — Small experiments in JS/Unity  
 - 🤖 **AI/ML** — Hands-on ML projects, applied problem-solving  
@@ -17,7 +17,7 @@ If you're someone who learns best with others, let’s connect and grow together
 
 ---
 
-## 👯‍♀️ Looking For Study Buddies Who...
+## Looking For People Who...
 
 - Are consistent — not perfect  
 - Share ideas and struggles, not just wins  
