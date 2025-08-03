@@ -5,8 +5,7 @@ I don't know — nor do I want to.
 
 But here’s what you *do* need to know about me:
 
-- 🛠️ I build with clarity, not chaos.  
-- 🔇 I thrive in silence — group chats can wait.
+- 🛠️ I build with clarity, not chaos.  <!-- 🔇 I thrive in silence — group chats can wait. -->
 - 🕒 I don’t do 3AM debugging. (I’ve got the whole day for that)
 - ☕ I don’t run on caffeine. Just pure determination.
 - 🎯 Deadlines? Already done. (While you were tweeting about hustle).
@@ -33,7 +32,7 @@ Tools: ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=archangel2006&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=archangel2006&theme=catppuccin_latte&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=archangel2006&theme=catppuccin_latte&no-frame=true&no-bg=false&margin-w=5&row=1)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=archangel2006&limit=5&theme=catppuccin_latte&combine_all_yearly_contributions=true)
