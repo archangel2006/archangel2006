@@ -38,8 +38,6 @@ If you're someone who learns best with others, let’s connect and grow together
 
 ## 📬 Reach Out
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavi-srivastava-99a572348/)  
-[![Devpost](https://img.shields.io/badge/Devpost-003E54?logo=devpost&logoColor=white)](your-devpost)  
-[![Devfolio](https://img.shields.io/badge/Devfolio-0A0A0A?logo=devfolio&logoColor=white)](your-devfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavi-srivastava-99a572348/) | [![Devpost](https://img.shields.io/badge/Devpost-003E54?logo=devpost&logoColor=white)](https://devpost.com/vaibhavideep26)  | [![Devfolio](https://img.shields.io/badge/Devfolio-0A0A0A?logo=devfolio&logoColor=white)](https://devfolio.co/@archangel2006)
 
-Let’s learn in public — no pressure, no flexing. Just steady growth. 🌱
+Let’s learn — no pressure, no flexing. Just steady growth. 🌱
