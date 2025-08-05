@@ -8,7 +8,7 @@ But here’s what you *do* need to know about me:
 - 🛠️ I build with clarity, not chaos.  <!-- 🔇 I thrive in silence — group chats can wait. -->
 - 🕒 I don’t do 3AM debugging. (I’ve got the whole day for that)
 - ☕ I don’t run on caffeine. Just pure determination.
-- 🎯 Deadlines? Already done. (While you were tweeting about hustle).
+- 🎯 Deadlines? Already done. <!-- (While you were tweeting about hustle). -->
 
 ---
 # 💻 Tech Stack:
