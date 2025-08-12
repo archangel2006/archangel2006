@@ -51,4 +51,6 @@ Tools: ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=archangel2006)
 
+![Hits](https://hits.sh/github.com/archangel2006.svg?style=flat-square)
+
  
