@@ -1,7 +1,7 @@
 # Hi there 👋
 ---
 ## You probably don't know me... or you do...
-I don't know — nor do I want to.
+<!-- I don't know — nor do I want to. -->
 
 But here’s what you *do* need to know about me:
 
