@@ -40,8 +40,8 @@ Tools: ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=
 
 ---
 ## 🌐 Contact Me:
- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:26.archangel@gmail.com) 
- <!-- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/26_archangel) --> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/26.archangel)
+ [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:26.archangel@gmail.com)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/26.archangel)
+ <!-- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/26_archangel) --> 
 
 
 ---
