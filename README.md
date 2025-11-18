@@ -69,7 +69,7 @@ Tools: ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=archangel2006&theme=github" />
+  <img width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=archangel2006&theme=github" />
 </p>
 
 
