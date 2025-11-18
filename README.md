@@ -34,12 +34,12 @@ Tools: ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=
 
   <span>
     <img src="https://github-readme-stats.vercel.app/api?username=archangel2006&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true"
-         style="height:200px;"/>
+         style="height:150px;"/>
   </span>
 
   <span>
     <img src="https://nirzak-streak-stats.vercel.app/?user=archangel2006&theme=catppuccin_latte&hide_border=false"
-         style="height:200px;"/>
+         style="height:150px;"/>
   </span>
 
 </p>
@@ -48,15 +48,20 @@ Tools: ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=
 
   <span>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archangel2006&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-         style="height:200px;"/>
+         style="height:180px;"/>
   </span>
 
   <span>
     <img src="https://github-contributor-stats.vercel.app/api?username=archangel2006&limit=5&theme=catppuccin_latte&combine_all_yearly_contributions=true"
-         style="height:200px;"/>
+         style="height:180px;"/>
   </span>
 
 </p>
+
+<p align="center">
+  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=archangel2006&theme=github" />
+</p>
+
 
 
 
