@@ -2,16 +2,26 @@
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=archangel2006&style=plastic&color=0A66C2)
 
 ---
+## 💫 About Me
+
+- 🔭 Currently building Full-Stack Applications & AI/ML pipelines
+- 🌱 Learning Next.js & Firebase 
+- 🎮 Exploring Game Development
+- 🤝 Pairing up on Collaborative Web Projects & Open-Source Contributions
+- 📚 Diving into Research & Experimental AI/ML
+
+
+<!--
 ## You probably don't know me... or you do...
-<!-- I don't know — nor do I want to. -->
+I don't know — nor do I want to.
 
 But here’s what you *do* need to know about me:
 
-- 🛠️ I build with clarity, not chaos.  <!-- 🔇 I thrive in silence — group chats can wait. -->
+- 🛠️ I build with clarity, not chaos. 
 - 🕒 I don’t do 3AM debugging. (I’ve got the whole day for that)
 - ☕ I don’t run on caffeine. Just pure determination.
-- 🎯 Deadlines? Already done. <!-- (While you were tweeting about hustle). -->
-
+- 🎯 Deadlines? Already done.
+-->
 ---
 ## 💻 Tech Stack:
 
