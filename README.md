@@ -1,6 +1,8 @@
 # Hi there 👋
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=archangel2006&style=plastic&color=0A66C2)
 
+<img align="right" src="https://raw.githubusercontent.com/archangel2006/archangel2006/main/assets/space%20boy%20developer.gif" width="200" />
+
 ---
 ## 💫 About Me
 
@@ -9,6 +11,7 @@
 - 🎮 Exploring Game Development
 - 🤝 Pairing up on Collaborative Web Projects & Open-Source Contributions
 - 📚 Diving into Research & Experimental AI/ML
+
 
 
 <!--
