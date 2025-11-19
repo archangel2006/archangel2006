@@ -1,10 +1,9 @@
-# Hi there 👋
+# <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated waving hand emoji" width="50" height="50"> Hi there!
+
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=archangel2006&style=plastic&color=0A66C2)
 
-<img align="right" src="https://raw.githubusercontent.com/archangel2006/archangel2006/main/assets/space%20boy%20developer.gif" width="200" />
-
 ---
-## 💫 About Me
+## 💫 About Me <img align="right" src="https://raw.githubusercontent.com/archangel2006/archangel2006/main/assets/space%20boy%20developer.gif" width="200" />
 
 - 🔭 Currently building Full-Stack Applications & AI/ML pipelines
 - 🌱 Learning Next.js & Firebase 
