@@ -4,6 +4,8 @@
   ✨ Explore my <a href="https://vaibhavi-srivastava.vercel.app/">PORTFOLIO</a>
 </h2>
 
+****Experiments & Side Projects:** [Uxie7](https://github.com/Uxie7/)**
+
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=archangel2006&style=plastic&color=0A66C2)
 
 
